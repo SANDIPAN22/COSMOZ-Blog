@@ -1,0 +1,37 @@
+.opt-buttons{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.index-body{
+    display: flex;
+    height: 85vh;
+    flex-wrap: wrap ;
+}
+
+.homepage-heading-text{
+    margin: 250px 5px 100px 150px;
+}
+
+.blog-flex-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.blog-card{
+    margin: 40px;
+    box-shadow: 5px 5px 15px black;
+}
+
+.single-post-content{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.edit-form-card{
+    margin: 40px;
+}
+
+.single-blog-content{
+    margin-left: 12px;
+}
